@@ -1,0 +1,28 @@
+{
+  "name": "bluesky-chrsitmas-countdown",
+  "version": "1.0.0",
+  "description": "Christmas Countdown Threads Bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "threads",
+    "bot",
+		"Christmas",
+		"countdown"
+  ],
+  "contributors": [
+    {
+      "name": "insolvency",
+      "url": "https://github.com/insolvency"
+    }
+  ],
+  "license": "Unlicense",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/likes-gay/bluesky-chrsitmas-countdown.git"
+	}
+}
